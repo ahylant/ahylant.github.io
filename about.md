@@ -4,10 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I'm starting this blog right as I dive into the world of Data Science for the first time! I hope to be able to translate what I learn into posts that will ultimately help future aspiring data scientists.
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm going to keep some of the info below for the first few weeks of this blog so that I can refer to them in the future. This about me page will certainly be built out much more by the end!
 
 There are currently two themes built on Poole:
 
